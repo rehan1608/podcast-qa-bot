@@ -1,0 +1,12 @@
+# Ignore local python environment
+venv/
+__pycache__/
+
+# Ignore massive download objects 
+*.mp3
+*.wav
+*.json
+
+# Ignore system configuration files
+.env
+.DS_Store
